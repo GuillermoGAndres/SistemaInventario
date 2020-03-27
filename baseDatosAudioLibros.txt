@@ -1,0 +1,3 @@
+Harry potter, porrua, 210, Ciencia ficcion, 2edicion, 250, 4:30
+Platero y yo, porrua, 210, Ciencia ficcion, 2edicion, 250, 2:30
+El señor de las moscas, porrua, 210, Ciencia ficcion, 2edicion, 250, 3:30
